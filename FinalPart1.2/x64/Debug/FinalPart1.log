@@ -1,0 +1,5 @@
+﻿  BigNumbers.cpp
+c:\users\moyenne\source\repos\finalpart1dynamic\finalpart1\bignumbers.cpp(111): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\moyenne\source\repos\finalpart1dynamic\finalpart1\bignumbers.cpp(301): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\moyenne\source\repos\finalpart1dynamic\finalpart1\bignumbers.cpp(302): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  FinalPart1.vcxproj -> C:\Users\Moyenne\source\repos\FinalPart1Dynamic\x64\Debug\FinalPart1.dll
