@@ -1,0 +1,28 @@
+﻿  BigNumbers.cpp
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(185): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(221): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(228): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(240): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(286): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(288): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(290): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(305): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(311): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(364): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(396): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(398): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(408): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(486): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(504): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(513): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(521): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(523): warning C4018: '<': signed/unsigned mismatch
+c:\users\moyenne\source\repos\finalpart1static\finalpart1\bignumbers.cpp(533): warning C4018: '<': signed/unsigned mismatch
+  FinalPart1.vcxproj -> C:\Users\Moyenne\source\repos\FinalPart1Static\Debug\FinalPart1.lib
